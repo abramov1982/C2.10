@@ -1,0 +1,13 @@
+body {
+    margin: 20px;
+    margin-top: 30px;
+}
+.block {
+}
+
+.buttons {
+    margin: 10px;
+    border-radius: 5px;
+    background-color: cornflowerblue;
+    width: 150px;
+}
